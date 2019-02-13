@@ -1,3 +1,9 @@
+02/13 
+* Still working on blogpost, a large chunk is done, I need to find an alternative to imputation on the current dataset 
+* Checked the new website for Lexis-Nexis and possibility of working with articles from that site
+* Thought about a new blog post idea upon request from my friend - A general introduction to computers and computing for undergraduates - explaining file paths, how to organize folders etc. 
+* Could also write one about Github although I don't know if it's already written 
+
 12/05
 
 * Working on blog post - will be ready by next week 
